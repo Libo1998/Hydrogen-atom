@@ -1,8 +1,8 @@
 # Hydrogen-atom
 
-Numerical and analytical solution of the Schr{\"o}dinger equation for the hydrogen atom.
+Numerical and analytical solution of the Schrödinger equation for the hydrogen atom.
 
-It is used MATLAB for numerical solution of differential equation (Runge-Kutta and Numerov algorithm). It is used Processing for numerical and graphical simulation of the chaotic system.
+MATLAB is used for numerical solution of differential equation (Runge-Kutta and Numerov algorithm) and for the graphs.
 
 The report, written in Latex, is avaiable in Italian-version.
 
